@@ -1,0 +1,3 @@
+# Reflections
+
+This one seemed to be more about nicely designing your custom data structures. I'm sure there are opportunities here to optimize speed and memory, but I didn't run into any noticeable issues there in terms of user experience. More importantly, I was very pleased with how I didn't need to change anything for Part 2, and could reuse all the same data structures from Part 1! That's a successful design in my opinion.
